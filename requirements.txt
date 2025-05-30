@@ -4,3 +4,4 @@ requests==2.31.0
 flask-limiter==3.5.0
 flask-caching==2.1.0
 gunicorn
+google-generativeai
